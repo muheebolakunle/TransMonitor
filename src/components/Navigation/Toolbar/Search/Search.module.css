@@ -1,0 +1,17 @@
+.Search{
+    display: block;
+    /* margin: auto; */
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.Search input{
+    border: transparent;
+    margin-left: 16px;
+    align-self: center;
+    font-size: 12px;
+    color: #979797;
+    line-height: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
