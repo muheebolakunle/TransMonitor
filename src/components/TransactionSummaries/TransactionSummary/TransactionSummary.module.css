@@ -1,0 +1,40 @@
+.TransactionSummary{
+    width: 253px;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    display: flex;
+    border-radius: 2px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.TransactionSummary .textpart{
+    float: left;
+    padding-left: 10px;
+}
+
+.TransactionSummary h3{
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 100;
+}
+
+.TransactionSummary p{
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.TransactionSummary .SummaryChart{
+    margin: 0;
+    padding: 0;
+    width: 55px;
+    height: 37px;
+    box-sizing: border-box;
+    background: linear-gradient(180deg, rgba(2, 148, 255, 0.126274) 33.13%, rgba(255, 255, 255, 0.0001) 117.06%);
+    padding-right: 10px;
+    /* float: right; */
+}

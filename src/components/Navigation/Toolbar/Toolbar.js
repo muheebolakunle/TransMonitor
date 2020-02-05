@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
 
 import NavigationItems from '../NavigationItems/NavigationItems';
 import Search from './Search/Search';
@@ -18,8 +17,5 @@ class Toolbar extends Component {
     }
 }
 
-Toolbar.propTypes = {
-
-};
 
 export default Toolbar;
