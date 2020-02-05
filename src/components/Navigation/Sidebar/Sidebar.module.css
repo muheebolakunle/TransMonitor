@@ -1,0 +1,58 @@
+.Sidebar{
+    width: 260px;
+    height: 1510px;
+    background: #ffffff;
+    border: 3px solid #555;
+}
+
+.Sidebar button{
+    background-color: #27AE60;
+    width: 163px;
+    height: 33px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    color: #ffffff;
+    box-sizing: border-box;
+    margin: 32px 33px;
+}
+
+.Sidebar div{
+    color: #647787;
+    width: 100%;
+    align-content: left;
+
+}
+
+.Sidebar p{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+    padding-left: 44px;
+}
+
+.Sidebar ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: 30px;
+    color: #647787;
+}
+
+.Sidebar li{
+    width: 100%;
+    padding-left: 44px;
+    height: 36px;
+    box-sizing: border-box;
+}
+
+.Sidebar a{
+    margin:  0;
+    padding:  0;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration: none;
+    color: #647787;
+    margin-left: 15px;
+
+}

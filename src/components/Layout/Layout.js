@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Toolbar from '../Navigation/Toolbar/Toolbar';
+import Sidebar from '../Navigation/Sidebar/Sidebar'
 import Aux from '../../hoc/Aux';
 
 const layout = (props) => {
@@ -8,6 +9,7 @@ const layout = (props) => {
         <Aux>
             <div>
                 <Toolbar />
+                <Sidebar />
             </div>
 
             <main>
