@@ -1,0 +1,11 @@
+.Content{
+    background-color: #E5E5E5;
+    width: 100%;
+}
+
+.MainBody {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
